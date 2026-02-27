@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+    char a = 'a';
+    int b = 10 + 5;
+    printf("%c = %d",a,b);
+    return 0;
+}
